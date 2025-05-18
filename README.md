@@ -42,7 +42,10 @@ Este proyecto permite cargar un archivo PDF y hacerle preguntas en lenguaje natu
             Espero que esta información sea útil. ¿Necesitas más detalles sobre algún objetivo específico?
 
 ## 🖼️ Pantallazos Langsmith
-<p align="center"> <img src="Capturas/Captura_Langsmith.jpg" alt="Langsmith" width="700"/> </p> ```
+<p align="center">
+ <img src="Capturas/Captura_Langsmith.jpg" alt="Langsmith" width="45%" style="margin-right: 10px;"/>
+ <img src="Capturas/Captura2_Langsmith.jpg" alt="Langsmith2" width="45%"/>
+</p> ```
 
 ---
 
